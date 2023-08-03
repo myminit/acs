@@ -1,2 +1,5 @@
-"# acs" 
-ECHO is on.
+"# acs"  ECHO is on.
+myminit
+
+
+
